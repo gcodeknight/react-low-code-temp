@@ -9940,6 +9940,13 @@ react-dev-utils@^11.0.3:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
+react-dnd-html5-backend@^14.0.0:
+  version "14.0.0"
+  resolved "https://registry.npm.taobao.org/react-dnd-html5-backend/download/react-dnd-html5-backend-14.0.0.tgz#28d660a2ad1e07447c34a65cd25f7de8f1657194"
+  integrity sha1-KNZgoq0eB0R8NKZc0l996PFlcZQ=
+  dependencies:
+    dnd-core "14.0.0"
+
 react-dnd@^14.0.2:
   version "14.0.2"
   resolved "https://registry.npm.taobao.org/react-dnd/download/react-dnd-14.0.2.tgz?cache=0&sync_timestamp=1616450410760&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dnd%2Fdownload%2Freact-dnd-14.0.2.tgz#57266baec92b887301f81fa3b77f87168d159733"
